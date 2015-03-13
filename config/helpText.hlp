@@ -1,0 +1,41 @@
+<h1>Configuration Parameters</h1>
+
+<b>Drawing area</b><br>
+<i>Canvas width:</i> Determines the width of the drawing area<br>
+<i>Canvas height:</i> Determines the width of the drawing area<br>
+<br>
+<b>Text elements</b><br>
+<i>Default font:</i> Determines the font to be employed for the text elements<br>
+<i>Default font size:</i> Determines the font size to be employed for the text elements<br>
+<br>
+<b>Symmetry detection parameters</b><br>
+<i>Max. unit distance:</i> Distance employed to determine when two units are close enough to be merged in one unit<br>
+<i>Distance offset:</i> Offset allowed for any two elements to be considered a unit<br>
+<i>Max. symmetry offset:</i> Offset allowed to determine if two units are symmetric<br>
+<br>
+
+<h1>Available actions</h1>
+
+<img src="file:///E:/Ivan/Proyectos/SVGDrawing/src/images/qIcon.png" /><br>
+<b>Insert element</b><br>
+First click on the insert icon (displayed as a Q).<br>
+Then, right click with the mouse in the canvas at the position
+where the element will be added<br>
+<br>
+<img src="file:///E:/Ivan/Proyectos/SVGDrawing/src/images/moveIcon.png" /><br>
+<b>Move element</b><br>
+First select an element in the canvas by right clicking it with the mouse. <br>
+Then, select the move element icon (displayed as four arrows in all directions).<br>
+Finally, right click with the mouse in the canvas at the position
+where the element will be moved<br>
+<br>
+<img src="file:///E:/Ivan/Proyectos/SVGDrawing/src/images/mirrorIcon.png" /><br>
+<b>Mirror element</b><br>
+First select an element in the canvas by right clicking it with the mouse. <br>
+Then click the mirror icon (displayed as two mirrored triangles).<br>
+<br>
+<img src="file:///E:/Ivan/Proyectos/SVGDrawing/src/images/trashbin.png" /><br>
+<b>Remove element</b><br>
+First select an element in the canvas by right clicking it with the mouse. <br>
+Then click the remove element icon (displayed as a trashbin).<br>
+<br>
